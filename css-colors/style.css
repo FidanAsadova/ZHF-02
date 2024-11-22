@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* body {
+  background-color: violet;
+} */
+
+section {
+  background-color: yellow;
+  height: 700px;
+}
+
+.container {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  /* margin: 10px 20px; */
+  margin: 20px 40px 40px 10px;
+}
+
+/* yuxari, sag, asagi, sol  -4 deyer verdikde*/
+/* yuxari-asagi, sag-sol  -2 deyer verdikde*/
